@@ -3,8 +3,11 @@ This repository contains the code for our paper in IEEE Information Workshop 202
 
 ## Algorithm 1: Bisec-MRVI
 The Bisec-MRVI folder contains the code for Algorithm 1 in our paper.
-|a|a|
-|b|b|
+
+| a   | b   |
+| --- | --- |
+|     |     |
+|     |     |
 
 ## Algorithm 2: FPBI
 The FPBI folder. Click
