@@ -23,8 +23,8 @@ The FPBI folder contains the code for Algorithm 1 in our paper.
 | hstar_Zerowait.m       | This function implements the fixed point iteration for h under zero-wait sampling.                                                                                                                            |
 | Qfunction.m            | This function outputs the Q-function in the Value Update process.                                                                                                                                             |
 | ValueUpdate.m          | This function implements the fixed point iteration on W.                                                                                                                                                      |
-| ValueUpdate_AoI.m      | This function implements the fixed point iteration on W under AoI-optimal sampling..                                                                                                                          |
-| ValueUpdate_Zerowait.m | This function implements the fixed point iteration on W under AoI-optimal sampling..                                                                                                                          | 
+| ValueUpdate_AoI.m      | This function implements the fixed point iteration on W under AoI-optimal sampling.                                                                                                                         |
+| ValueUpdate_Zerowait.m | This function implements the fixed point iteration on W under zero-wait sampling.                                                                                                                          | 
 
 ## Citation
 Please cite this paper if it helps your research:
