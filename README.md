@@ -25,3 +25,14 @@ The FPBI folder contains the code for Algorithm 1 in our paper.
 | ValueUpdate.m          | This function implements the fixed point iteration on W.                                                                                                                                                      |
 | ValueUpdate_AoI.m      | This function implements the fixed point iteration on W under AoI-optimal sampling..                                                                                                                          |
 | ValueUpdate_Zerowait.m | This function implements the fixed point iteration on W under AoI-optimal sampling..                                                                                                                          | 
+
+## Citation
+Please cite this paper if it helps your research:
+```
+@inproceedings{li2024sampling,
+	title={Sampling to Achieve the Goal: An Age-aware Remote Markov Decision Process}, 
+	author={Aimin Li and Shaohua Wu and Gary C. F. Lee and Xiaomeng Cheng and Sumei Sun},
+	booktitle={2024 IEEE Proc. ITW},
+	year={2024},
+}
+```
