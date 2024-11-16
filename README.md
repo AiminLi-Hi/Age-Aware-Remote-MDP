@@ -12,7 +12,7 @@ The Bisec-MRVI folder contains the code for Algorithm 1 in our paper.
 | ValueUpdate_MRVI.m | The function accomplishes the value update process in MRVI.                         |  
 
 ## Algorithm 2: FPBI
-The FPBI folder contains the code for Algorithm 1 in our paper.
+The FPBI folder contains the code for Algorithm 2 in our paper.
 
 | Files                  | Description                                                                                                                                                                                                   |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -23,8 +23,9 @@ The FPBI folder contains the code for Algorithm 1 in our paper.
 | hstar_Zerowait.m       | This function implements the fixed point iteration for h under zero-wait sampling.                                                                                                                            |
 | Qfunction.m            | This function outputs the Q-function in the Value Update process.                                                                                                                                             |
 | ValueUpdate.m          | This function implements the fixed point iteration on W.                                                                                                                                                      |
-| ValueUpdate_AoI.m      | This function implements the fixed point iteration on W under AoI-optimal sampling.                                                                                                                         |
-| ValueUpdate_Zerowait.m | This function implements the fixed point iteration on W under zero-wait sampling.                                                                                                                          | 
+| ValueUpdate_AoI.m      | This function implements the fixed point iteration on W under AoI-optimal sampling.                                                                                                                           |
+| ValueUpdate_Zerowait.m | This function implements the fixed point iteration on W under zero-wait sampling.                                                                                                                             |
+| Transitionfunction     | This function describes the transformed transtion probability.                                                                                                                                                || 
 
 ## Citation
 Please cite this paper if it helps your research:
