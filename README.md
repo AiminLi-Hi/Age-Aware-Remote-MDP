@@ -28,7 +28,7 @@ The FPBI folder contains the code for Algorithm 2 in our paper.
 | Transitionfunction.m     | This function describes the transformed transition probability.
 
 ## Contact
-If you encounter any issues with reproduction, feel free to reach out to me at [hitliaimin@163.com](hitliaimin@163.com).
+If you encounter any issues with reproduction, feel free to reach out to me at [hitliaimin@163.com](mailto:hitliaimin@163.com).
 
 ## Citation
 Please cite this paper if it helps your research:
