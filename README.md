@@ -25,7 +25,10 @@ The FPBI folder contains the code for Algorithm 2 in our paper.
 | ValueUpdate.m          | This function implements the fixed point iteration on W.                                                                                                                                                      |
 | ValueUpdate_AoI.m      | This function implements the fixed point iteration on W under AoI-optimal sampling.                                                                                                                           |
 | ValueUpdate_Zerowait.m | This function implements the fixed point iteration on W under zero-wait sampling.                                                                                                                             |
-| Transitionfunction.m     | This function describes the transformed transtion probability.                                                                                                                                                || 
+| Transitionfunction.m     | This function describes the transformed transition probability.
+
+## Contact
+If you encounter any issues with reproduction, feel free to reach out to me at [hitliaimin@163.com](hitliaimin@163.com).
 
 ## Citation
 Please cite this paper if it helps your research:
