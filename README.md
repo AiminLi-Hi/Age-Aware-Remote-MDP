@@ -31,7 +31,7 @@ The FPBI folder contains the code for Algorithm 2 in our paper.
 If you encounter any issues with reproduction, feel free to reach out to me at [hitliaimin@163.com](mailto:hitliaimin@163.com).
 
 ## Citation
-Please cite this paper if it helps your research:
+You may cite this paper if it helps your research:
 ```
 @inproceedings{li2024sampling,
 	title={Sampling to Achieve the Goal: An Age-aware Remote Markov Decision Process}, 
