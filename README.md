@@ -34,9 +34,10 @@ If you encounter any issues with reproduction, feel free to reach out to me at [
 You may cite this paper if it helps your research:
 ```
 @inproceedings{li2024sampling,
-	title={Sampling to Achieve the Goal: An Age-aware Remote Markov Decision Process}, 
-	author={Aimin Li and Shaohua Wu and Gary C. F. Lee and Xiaomeng Cheng and Sumei Sun},
-	booktitle={2024 IEEE Proc. ITW},
-	year={2024},
+		author       = {Aimin Li and Shaohua Wu and Gary C. F. Lee and Xiaomeng Chen and Sumei Sun},
+		title        = {Sampling to Achieve the Goal: An Age-aware Remote Markov Decision Process},
+		booktitle    = {Proc. {IEEE} {ITW}},
+		pages        = {121-126},
+		year         = {2024},
 }
 ```
