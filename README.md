@@ -1,5 +1,5 @@
 # Age-Aware-Remote-MDP
-This paper uses age of information as side information to facilitate remote decision making. This repository contains the code for our paper in IEEE Information Workshop 2024: [Sampling to Achieve the Goal: An Age-Aware Remote Markov Decision Process](https://arxiv.org/pdf/2405.02042v3).
+This paper uses age of information as side information to facilitate goal-oriented remote decision making. This repository contains the code for our paper in IEEE Information Workshop 2024: [Sampling to Achieve the Goal: An Age-Aware Remote Markov Decision Process](https://arxiv.org/pdf/2405.02042v3).
 
 ## Algorithm 1: Bisec-MRVI
 The Bisec-MRVI folder contains the code for Algorithm 1 in our paper.
