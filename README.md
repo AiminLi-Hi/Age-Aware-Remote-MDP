@@ -1,13 +1,13 @@
 # Age-Aware-Remote-MDP
-📄 This repository accompanies our paper at IEEE Information Theory Workshop (ITW) 2024: [Sampling to Achieve the Goal: An Age-Aware Remote Markov Decision Process](https://arxiv.org/pdf/2405.02042v3).
+📄 This repository accompanies our paper at **IEEE Information Theory Workshop (ITW) 2024**: [Sampling to Achieve the Goal: An Age-Aware Remote Markov Decision Process](https://arxiv.org/pdf/2405.02042v3).
 
-In this work, we investigate the problem of goal-oriented decision-making under random communication delays, a key challenge in remote control and networked systems. While the Age of Information (AoI) has been widely used to optimize freshness, existing works mainly treat AoI as a metric to minimize, without rigorously exploring its causal role in downstream decision-making. Furthermore, few solutions exist that connect AoI with remote MDP planning, nor are there principled algorithms with theoretical guarantees.
+In this work, we investigate the problem of goal-oriented decision-making under random communication delays, a key challenge in remote control and networked systems. While the **Age of Information** (AoI) has been widely used to optimize freshness, existing works mainly treat AoI as a metric to minimize, without rigorously exploring its causal role in downstream decision-making. Furthermore, few solutions exist that connect AoI with remote MDP planning, nor are there principled algorithms with theoretical guarantees.
 
-To bridge these gaps, we formulate the age-aware remote control problem as an MDP with age-dependent observations and propose a novel framework: the Age-Aware Remote MDP. Our key insight is to treat AoI not as a target metric, but as a structured, dynamic side-information that influences remote decision-making policy.
+To bridge these gaps, we formulate the age-aware remote control problem as an MDP with age-dependent observations and propose a novel framework: the Age-Aware Remote MDP. **Our key insight is to treat AoI not as a target metric, but as a structured, dynamic side-information that influences remote decision-making policy**.
 
 We address a key question: 
->What is the value of information, when freshness fades—and only its power to shape
-remote decisions remains?
+> 🧠 *What is the value of information, when freshness fades—and only its power to shape
+remote decisions remains?*
 
 ## 🔬 Algorithm 1: Bisec-MRVI
 The Bisec-MRVI folder contains the code for Algorithm 1 in our paper.
